@@ -1,0 +1,7 @@
+vaadin-text-field::part(error-message),
+vaadin-password-field::part(error-message),
+vaadin-email-field::part(error-message),
+vaadin-number-field::part(error-message) {
+    color: red;
+    font-weight: bold;
+}
